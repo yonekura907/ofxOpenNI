@@ -46,7 +46,7 @@ https://github.com/73-ch/ofxOpenNI
 
 8 `addons/ofxOpenNI`の中の`include`と`src`フォルダをXcode上の`ofxOpenNI`フォルダにドラッグ。<br>
 
-<img src="capture1.png" width="500">
+<img src="docs/capture1.png" width="500">
 
 上記の設定にする
 
@@ -67,7 +67,7 @@ https://github.com/73-ch/ofxOpenNI
 
 12 `clang: error: linker command failed with exit code 1`というエラーが出たので、左サイドバーから1Projectを選択して、2`BuildSetting`を選び、`Search Paths`の`Library Search Paths` に 6で指定した`lib`フォルダのパスを指定する。
 
-![](capture2.png)
+![](docs/capture2.png)
 
 &nbsp;
 
