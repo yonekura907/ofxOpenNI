@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>4340D97E-485F-4906-AC21-BE7EC53F6A1F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4340D97E-485F-4906-AC21-BE7EC53F6A1F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>test_openNI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>test_openNI Debug</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build test_openNI Debug</string>
+			<key>timeStartedRecording</key>
+			<real>603892058.80978203</real>
+			<key>timeStoppedRecording</key>
+			<real>603892064.96438706</real>
+			<key>title</key>
+			<string>Build test_openNI Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>4340D97E-485F-4906-AC21-BE7EC53F6A1F</string>
+		</dict>
+		<key>4EEA770C-E14C-41DE-921B-AC3C90D081DB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4EEA770C-E14C-41DE-921B-AC3C90D081DB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>test_openNI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>test_openNI Debug</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build test_openNI Debug</string>
+			<key>timeStartedRecording</key>
+			<real>603892079.66540098</real>
+			<key>timeStoppedRecording</key>
+			<real>603892087.42267799</real>
+			<key>title</key>
+			<string>Build test_openNI Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>4EEA770C-E14C-41DE-921B-AC3C90D081DB</string>
+		</dict>
+		<key>57FAFB2B-90C8-41F9-A54B-48F3BFA3FE38</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>57FAFB2B-90C8-41F9-A54B-48F3BFA3FE38.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>test_openNI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>test_openNI Debug</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build test_openNI Debug</string>
+			<key>timeStartedRecording</key>
+			<real>603891540.11030602</real>
+			<key>timeStoppedRecording</key>
+			<real>603891549.40058696</real>
+			<key>title</key>
+			<string>Build test_openNI Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>57FAFB2B-90C8-41F9-A54B-48F3BFA3FE38</string>
+		</dict>
+		<key>673C20B2-B003-4592-8BFD-DF17759DDE47</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>673C20B2-B003-4592-8BFD-DF17759DDE47.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>test_openNI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>test_openNI Debug</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build test_openNI Debug</string>
+			<key>timeStartedRecording</key>
+			<real>603892239.96247995</real>
+			<key>timeStoppedRecording</key>
+			<real>603892248.64906394</real>
+			<key>title</key>
+			<string>Build test_openNI Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>673C20B2-B003-4592-8BFD-DF17759DDE47</string>
+		</dict>
+		<key>998C95CA-225C-4C37-9E84-E3639DC24BA5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>998C95CA-225C-4C37-9E84-E3639DC24BA5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>test_openNI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>test_openNI Debug</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build test_openNI Debug</string>
+			<key>timeStartedRecording</key>
+			<real>603891929.14658999</real>
+			<key>timeStoppedRecording</key>
+			<real>603891934.25276506</real>
+			<key>title</key>
+			<string>Build test_openNI Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>998C95CA-225C-4C37-9E84-E3639DC24BA5</string>
+		</dict>
+		<key>BF7EAFC1-E66A-4ED9-B9FB-67BDF833E957</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BF7EAFC1-E66A-4ED9-B9FB-67BDF833E957.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>test_openNI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>test_openNI Debug</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build test_openNI Debug</string>
+			<key>timeStartedRecording</key>
+			<real>603891983.81621695</real>
+			<key>timeStoppedRecording</key>
+			<real>603891989.86411595</real>
+			<key>title</key>
+			<string>Build test_openNI Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>BF7EAFC1-E66A-4ED9-B9FB-67BDF833E957</string>
+		</dict>
+		<key>CECB50A8-9003-4214-8720-824736B8B6EE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CECB50A8-9003-4214-8720-824736B8B6EE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>test_openNI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>test_openNI Debug</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build test_openNI Debug</string>
+			<key>timeStartedRecording</key>
+			<real>603891961.92001402</real>
+			<key>timeStoppedRecording</key>
+			<real>603891968.03798997</real>
+			<key>title</key>
+			<string>Build test_openNI Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>CECB50A8-9003-4214-8720-824736B8B6EE</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
